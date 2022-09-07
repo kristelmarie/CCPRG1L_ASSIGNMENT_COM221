@@ -16,7 +16,7 @@ public class App {
         // Calls the sayMyName method
         thief.sayMyName();
 
-        Character archer = new Character(str:9, agi:8, intel:10, characterName:"Ace");
+        Character archer = new Character(5, 8, 10, "Ace");
         archer.sayMyName();
     }
 }
