@@ -7,6 +7,9 @@ public class App {
 
     public static void main(String[] args) {
       
+        String crush = revealMyCrush();
+        System.out.println(crush);
+        
       revealMyOrder();
 
        
